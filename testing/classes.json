@@ -1,0 +1,23 @@
+[
+    "AND_Operation",
+    "Alarm",
+    "Annotation",
+    "Cause",
+    "Circle_common",
+    "Connector",
+    "Cross_Connector",
+    "Decision",
+    "Explanatory_Note",
+    "Flow_Line",
+    "Indication_Lamp",
+    "Manual_Input",
+    "Manual_Operation",
+    "OR_Operation",
+    "Predefined_Process",
+    "Preparation",
+    "Process",
+    "Rect_common",
+    "Table",
+    "Terminal",
+    "Triangle_Connector"
+]

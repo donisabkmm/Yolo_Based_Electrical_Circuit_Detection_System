@@ -1,0 +1,3990 @@
+{
+    "image": "EM-02_MAIN SWITCHBOARD_page_19.png",
+    "image_size": {
+        "width": 4678,
+        "height": 3307
+    },
+    "num_lines": 199,
+    "lines": [
+        {
+            "id": "line_2",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2315,
+                "y": 178,
+                "width": 9,
+                "height": 2
+            },
+            "points": {
+                "start": [
+                    2315,
+                    178
+                ],
+                "end": [
+                    2324,
+                    180
+                ]
+            }
+        },
+        {
+            "id": "line_3",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 1221,
+                "y": 184,
+                "width": 3,
+                "height": 40
+            },
+            "points": {
+                "start": [
+                    1221,
+                    184
+                ],
+                "end": [
+                    1224,
+                    224
+                ]
+            }
+        },
+        {
+            "id": "line_4",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2319,
+                "y": 184,
+                "width": 1,
+                "height": 40
+            },
+            "points": {
+                "start": [
+                    2319,
+                    184
+                ],
+                "end": [
+                    2320,
+                    224
+                ]
+            }
+        },
+        {
+            "id": "line_5",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3413,
+                "y": 192,
+                "width": 1,
+                "height": 32
+            },
+            "points": {
+                "start": [
+                    3413,
+                    192
+                ],
+                "end": [
+                    3414,
+                    224
+                ]
+            }
+        },
+        {
+            "id": "line_14",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 4032,
+                "y": 588,
+                "width": 69,
+                "height": 14
+            },
+            "points": {
+                "start": [
+                    4032,
+                    588
+                ],
+                "end": [
+                    4101,
+                    602
+                ]
+            }
+        },
+        {
+            "id": "line_23",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3922,
+                "y": 601,
+                "width": 108,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    3922,
+                    601
+                ],
+                "end": [
+                    4030,
+                    602
+                ]
+            }
+        },
+        {
+            "id": "line_34",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 478,
+                "y": 624,
+                "width": 768,
+                "height": 52
+            },
+            "points": {
+                "start": [
+                    478,
+                    624
+                ],
+                "end": [
+                    1246,
+                    676
+                ]
+            }
+        },
+        {
+            "id": "line_37",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2084,
+                "y": 624,
+                "width": 8,
+                "height": 25
+            },
+            "points": {
+                "start": [
+                    2084,
+                    624
+                ],
+                "end": [
+                    2092,
+                    649
+                ]
+            }
+        },
+        {
+            "id": "line_42",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3720,
+                "y": 626,
+                "width": 10,
+                "height": 31
+            },
+            "points": {
+                "start": [
+                    3720,
+                    626
+                ],
+                "end": [
+                    3730,
+                    657
+                ]
+            }
+        },
+        {
+            "id": "line_43",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3419,
+                "y": 627,
+                "width": 768,
+                "height": 49
+            },
+            "points": {
+                "start": [
+                    3419,
+                    627
+                ],
+                "end": [
+                    4187,
+                    676
+                ]
+            }
+        },
+        {
+            "id": "line_45",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2511,
+                "y": 628,
+                "width": 4,
+                "height": 29
+            },
+            "points": {
+                "start": [
+                    2511,
+                    628
+                ],
+                "end": [
+                    2515,
+                    657
+                ]
+            }
+        },
+        {
+            "id": "line_46",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3876,
+                "y": 628,
+                "width": 4,
+                "height": 29
+            },
+            "points": {
+                "start": [
+                    3876,
+                    628
+                ],
+                "end": [
+                    3880,
+                    657
+                ]
+            }
+        },
+        {
+            "id": "line_53",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 1175,
+                "y": 633,
+                "width": 5,
+                "height": 24
+            },
+            "points": {
+                "start": [
+                    1175,
+                    633
+                ],
+                "end": [
+                    1180,
+                    657
+                ]
+            }
+        },
+        {
+            "id": "line_55",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 1868,
+                "y": 638,
+                "width": 768,
+                "height": 38
+            },
+            "points": {
+                "start": [
+                    1868,
+                    638
+                ],
+                "end": [
+                    2636,
+                    676
+                ]
+            }
+        },
+        {
+            "id": "line_57",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 758,
+                "y": 642,
+                "width": 1,
+                "height": 15
+            },
+            "points": {
+                "start": [
+                    758,
+                    642
+                ],
+                "end": [
+                    759,
+                    657
+                ]
+            }
+        },
+        {
+            "id": "line_64",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 691,
+                "y": 775,
+                "width": 39,
+                "height": 3
+            },
+            "points": {
+                "start": [
+                    691,
+                    775
+                ],
+                "end": [
+                    730,
+                    778
+                ]
+            }
+        },
+        {
+            "id": "line_68",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 515,
+                "y": 808,
+                "width": 1,
+                "height": 147
+            },
+            "points": {
+                "start": [
+                    515,
+                    808
+                ],
+                "end": [
+                    516,
+                    955
+                ]
+            }
+        },
+        {
+            "id": "line_69",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 775,
+                "y": 808,
+                "width": 1,
+                "height": 147
+            },
+            "points": {
+                "start": [
+                    775,
+                    808
+                ],
+                "end": [
+                    776,
+                    955
+                ]
+            }
+        },
+        {
+            "id": "line_71",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 957,
+                "y": 827,
+                "width": 274,
+                "height": 24
+            },
+            "points": {
+                "start": [
+                    957,
+                    827
+                ],
+                "end": [
+                    1231,
+                    851
+                ]
+            }
+        },
+        {
+            "id": "line_72",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2313,
+                "y": 827,
+                "width": 285,
+                "height": 29
+            },
+            "points": {
+                "start": [
+                    2313,
+                    827
+                ],
+                "end": [
+                    2598,
+                    856
+                ]
+            }
+        },
+        {
+            "id": "line_73",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3782,
+                "y": 827,
+                "width": 286,
+                "height": 31
+            },
+            "points": {
+                "start": [
+                    3782,
+                    827
+                ],
+                "end": [
+                    4068,
+                    858
+                ]
+            }
+        },
+        {
+            "id": "line_81",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 696,
+                "y": 839,
+                "width": 1,
+                "height": 18
+            },
+            "points": {
+                "start": [
+                    696,
+                    839
+                ],
+                "end": [
+                    697,
+                    857
+                ]
+            }
+        },
+        {
+            "id": "line_93",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2307,
+                "y": 858,
+                "width": 5,
+                "height": 36
+            },
+            "points": {
+                "start": [
+                    2307,
+                    858
+                ],
+                "end": [
+                    2312,
+                    894
+                ]
+            }
+        },
+        {
+            "id": "line_96",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 676,
+                "y": 859,
+                "width": 63,
+                "height": 18
+            },
+            "points": {
+                "start": [
+                    676,
+                    859
+                ],
+                "end": [
+                    739,
+                    877
+                ]
+            }
+        },
+        {
+            "id": "line_97",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 916,
+                "y": 859,
+                "width": 5,
+                "height": 45
+            },
+            "points": {
+                "start": [
+                    916,
+                    859
+                ],
+                "end": [
+                    921,
+                    904
+                ]
+            }
+        },
+        {
+            "id": "line_98",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2626,
+                "y": 859,
+                "width": 5,
+                "height": 45
+            },
+            "points": {
+                "start": [
+                    2626,
+                    859
+                ],
+                "end": [
+                    2631,
+                    904
+                ]
+            }
+        },
+        {
+            "id": "line_99",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3749,
+                "y": 859,
+                "width": 5,
+                "height": 45
+            },
+            "points": {
+                "start": [
+                    3749,
+                    859
+                ],
+                "end": [
+                    3754,
+                    904
+                ]
+            }
+        },
+        {
+            "id": "line_101",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 4069,
+                "y": 860,
+                "width": 5,
+                "height": 35
+            },
+            "points": {
+                "start": [
+                    4069,
+                    860
+                ],
+                "end": [
+                    4074,
+                    895
+                ]
+            }
+        },
+        {
+            "id": "line_102",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2503,
+                "y": 861,
+                "width": 22,
+                "height": 3
+            },
+            "points": {
+                "start": [
+                    2503,
+                    861
+                ],
+                "end": [
+                    2525,
+                    864
+                ]
+            }
+        },
+        {
+            "id": "line_117",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2545,
+                "y": 870,
+                "width": 4,
+                "height": 13
+            },
+            "points": {
+                "start": [
+                    2545,
+                    870
+                ],
+                "end": [
+                    2549,
+                    883
+                ]
+            }
+        },
+        {
+            "id": "line_118",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 1966,
+                "y": 873,
+                "width": 63,
+                "height": 11
+            },
+            "points": {
+                "start": [
+                    1966,
+                    873
+                ],
+                "end": [
+                    2029,
+                    884
+                ]
+            }
+        },
+        {
+            "id": "line_119",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2072,
+                "y": 873,
+                "width": 11,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    2072,
+                    873
+                ],
+                "end": [
+                    2083,
+                    874
+                ]
+            }
+        },
+        {
+            "id": "line_120",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2516,
+                "y": 873,
+                "width": 1,
+                "height": 11
+            },
+            "points": {
+                "start": [
+                    2516,
+                    873
+                ],
+                "end": [
+                    2517,
+                    884
+                ]
+            }
+        },
+        {
+            "id": "line_167",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 154,
+                "y": 925,
+                "width": 1,
+                "height": 5
+            },
+            "points": {
+                "start": [
+                    154,
+                    925
+                ],
+                "end": [
+                    155,
+                    930
+                ]
+            }
+        },
+        {
+            "id": "line_171",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3790,
+                "y": 927,
+                "width": 258,
+                "height": 12
+            },
+            "points": {
+                "start": [
+                    3790,
+                    927
+                ],
+                "end": [
+                    4048,
+                    939
+                ]
+            }
+        },
+        {
+            "id": "line_172",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 947,
+                "y": 930,
+                "width": 252,
+                "height": 9
+            },
+            "points": {
+                "start": [
+                    947,
+                    930
+                ],
+                "end": [
+                    1199,
+                    939
+                ]
+            }
+        },
+        {
+            "id": "line_175",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 4484,
+                "y": 930,
+                "width": 1,
+                "height": 5
+            },
+            "points": {
+                "start": [
+                    4484,
+                    930
+                ],
+                "end": [
+                    4485,
+                    935
+                ]
+            }
+        },
+        {
+            "id": "line_179",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2348,
+                "y": 934,
+                "width": 242,
+                "height": 5
+            },
+            "points": {
+                "start": [
+                    2348,
+                    934
+                ],
+                "end": [
+                    2590,
+                    939
+                ]
+            }
+        },
+        {
+            "id": "line_183",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 1078,
+                "y": 943,
+                "width": 1,
+                "height": 77
+            },
+            "points": {
+                "start": [
+                    1078,
+                    943
+                ],
+                "end": [
+                    1079,
+                    1020
+                ]
+            }
+        },
+        {
+            "id": "line_184",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2468,
+                "y": 943,
+                "width": 1,
+                "height": 77
+            },
+            "points": {
+                "start": [
+                    2468,
+                    943
+                ],
+                "end": [
+                    2469,
+                    1020
+                ]
+            }
+        },
+        {
+            "id": "line_185",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3911,
+                "y": 943,
+                "width": 21,
+                "height": 115
+            },
+            "points": {
+                "start": [
+                    3911,
+                    943
+                ],
+                "end": [
+                    3932,
+                    1058
+                ]
+            }
+        },
+        {
+            "id": "line_190",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 645,
+                "y": 970,
+                "width": 1,
+                "height": 50
+            },
+            "points": {
+                "start": [
+                    645,
+                    970
+                ],
+                "end": [
+                    646,
+                    1020
+                ]
+            }
+        },
+        {
+            "id": "line_191",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2035,
+                "y": 970,
+                "width": 1,
+                "height": 50
+            },
+            "points": {
+                "start": [
+                    2035,
+                    970
+                ],
+                "end": [
+                    2036,
+                    1020
+                ]
+            }
+        },
+        {
+            "id": "line_193",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3478,
+                "y": 1008,
+                "width": 1,
+                "height": 50
+            },
+            "points": {
+                "start": [
+                    3478,
+                    1008
+                ],
+                "end": [
+                    3479,
+                    1058
+                ]
+            }
+        },
+        {
+            "id": "line_194",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 532,
+                "y": 1022,
+                "width": 660,
+                "height": 11
+            },
+            "points": {
+                "start": [
+                    532,
+                    1022
+                ],
+                "end": [
+                    1192,
+                    1033
+                ]
+            }
+        },
+        {
+            "id": "line_195",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 1922,
+                "y": 1022,
+                "width": 660,
+                "height": 11
+            },
+            "points": {
+                "start": [
+                    1922,
+                    1022
+                ],
+                "end": [
+                    2582,
+                    1033
+                ]
+            }
+        },
+        {
+            "id": "line_198",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3365,
+                "y": 1060,
+                "width": 660,
+                "height": 11
+            },
+            "points": {
+                "start": [
+                    3365,
+                    1060
+                ],
+                "end": [
+                    4025,
+                    1071
+                ]
+            }
+        },
+        {
+            "id": "line_199",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 1078,
+                "y": 1067,
+                "width": 1,
+                "height": 213
+            },
+            "points": {
+                "start": [
+                    1078,
+                    1067
+                ],
+                "end": [
+                    1079,
+                    1280
+                ]
+            }
+        },
+        {
+            "id": "line_200",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2469,
+                "y": 1067,
+                "width": 0,
+                "height": 84
+            },
+            "points": {
+                "start": [
+                    2469,
+                    1067
+                ],
+                "end": [
+                    2469,
+                    1151
+                ]
+            }
+        },
+        {
+            "id": "line_204",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3911,
+                "y": 1105,
+                "width": 4,
+                "height": 137
+            },
+            "points": {
+                "start": [
+                    3911,
+                    1105
+                ],
+                "end": [
+                    3915,
+                    1242
+                ]
+            }
+        },
+        {
+            "id": "line_215",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3919,
+                "y": 1157,
+                "width": 201,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    3919,
+                    1157
+                ],
+                "end": [
+                    4120,
+                    1158
+                ]
+            }
+        },
+        {
+            "id": "line_218",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 4156,
+                "y": 1170,
+                "width": 6,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    4156,
+                    1170
+                ],
+                "end": [
+                    4162,
+                    1171
+                ]
+            }
+        },
+        {
+            "id": "line_219",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 617,
+                "y": 1176,
+                "width": 48,
+                "height": 10
+            },
+            "points": {
+                "start": [
+                    617,
+                    1176
+                ],
+                "end": [
+                    665,
+                    1186
+                ]
+            }
+        },
+        {
+            "id": "line_224",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 4134,
+                "y": 1196,
+                "width": 48,
+                "height": 9
+            },
+            "points": {
+                "start": [
+                    4134,
+                    1196
+                ],
+                "end": [
+                    4182,
+                    1205
+                ]
+            }
+        },
+        {
+            "id": "line_225",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2097,
+                "y": 1208,
+                "width": 186,
+                "height": 31
+            },
+            "points": {
+                "start": [
+                    2097,
+                    1208
+                ],
+                "end": [
+                    2283,
+                    1239
+                ]
+            }
+        },
+        {
+            "id": "line_234",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2276,
+                "y": 1229,
+                "width": 31,
+                "height": 10
+            },
+            "points": {
+                "start": [
+                    2276,
+                    1229
+                ],
+                "end": [
+                    2307,
+                    1239
+                ]
+            }
+        },
+        {
+            "id": "line_235",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 645,
+                "y": 1230,
+                "width": 1,
+                "height": 50
+            },
+            "points": {
+                "start": [
+                    645,
+                    1230
+                ],
+                "end": [
+                    646,
+                    1280
+                ]
+            }
+        },
+        {
+            "id": "line_237",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2419,
+                "y": 1244,
+                "width": 69,
+                "height": 21
+            },
+            "points": {
+                "start": [
+                    2419,
+                    1244
+                ],
+                "end": [
+                    2488,
+                    1265
+                ]
+            }
+        },
+        {
+            "id": "line_242",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 532,
+                "y": 1282,
+                "width": 660,
+                "height": 11
+            },
+            "points": {
+                "start": [
+                    532,
+                    1282
+                ],
+                "end": [
+                    1192,
+                    1293
+                ]
+            }
+        },
+        {
+            "id": "line_247",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2465,
+                "y": 1326,
+                "width": 7,
+                "height": 333
+            },
+            "points": {
+                "start": [
+                    2465,
+                    1326
+                ],
+                "end": [
+                    2472,
+                    1659
+                ]
+            }
+        },
+        {
+            "id": "line_248",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 1078,
+                "y": 1327,
+                "width": 1,
+                "height": 83
+            },
+            "points": {
+                "start": [
+                    1078,
+                    1327
+                ],
+                "end": [
+                    1079,
+                    1410
+                ]
+            }
+        },
+        {
+            "id": "line_252",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2259,
+                "y": 1362,
+                "width": 202,
+                "height": 4
+            },
+            "points": {
+                "start": [
+                    2259,
+                    1362
+                ],
+                "end": [
+                    2461,
+                    1366
+                ]
+            }
+        },
+        {
+            "id": "line_253",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3911,
+                "y": 1365,
+                "width": 1,
+                "height": 116
+            },
+            "points": {
+                "start": [
+                    3911,
+                    1365
+                ],
+                "end": [
+                    3912,
+                    1481
+                ]
+            }
+        },
+        {
+            "id": "line_255",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2357,
+                "y": 1370,
+                "width": 8,
+                "height": 63
+            },
+            "points": {
+                "start": [
+                    2357,
+                    1370
+                ],
+                "end": [
+                    2365,
+                    1433
+                ]
+            }
+        },
+        {
+            "id": "line_258",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 707,
+                "y": 1416,
+                "width": 525,
+                "height": 164
+            },
+            "points": {
+                "start": [
+                    707,
+                    1416
+                ],
+                "end": [
+                    1232,
+                    1580
+                ]
+            }
+        },
+        {
+            "id": "line_261",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2259,
+                "y": 1427,
+                "width": 96,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    2259,
+                    1427
+                ],
+                "end": [
+                    2355,
+                    1428
+                ]
+            }
+        },
+        {
+            "id": "line_283",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2023,
+                "y": 1531,
+                "width": 57,
+                "height": 9
+            },
+            "points": {
+                "start": [
+                    2023,
+                    1531
+                ],
+                "end": [
+                    2080,
+                    1540
+                ]
+            }
+        },
+        {
+            "id": "line_293",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 1977,
+                "y": 1555,
+                "width": 60,
+                "height": 9
+            },
+            "points": {
+                "start": [
+                    1977,
+                    1555
+                ],
+                "end": [
+                    2037,
+                    1564
+                ]
+            }
+        },
+        {
+            "id": "line_303",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2747,
+                "y": 1574,
+                "width": 52,
+                "height": 12
+            },
+            "points": {
+                "start": [
+                    2747,
+                    1574
+                ],
+                "end": [
+                    2799,
+                    1586
+                ]
+            }
+        },
+        {
+            "id": "line_305",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2476,
+                "y": 1579,
+                "width": 202,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    2476,
+                    1579
+                ],
+                "end": [
+                    2678,
+                    1580
+                ]
+            }
+        },
+        {
+            "id": "line_306",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2734,
+                "y": 1580,
+                "width": 11,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    2734,
+                    1580
+                ],
+                "end": [
+                    2745,
+                    1581
+                ]
+            }
+        },
+        {
+            "id": "line_307",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2878,
+                "y": 1580,
+                "width": 8,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    2878,
+                    1580
+                ],
+                "end": [
+                    2886,
+                    1581
+                ]
+            }
+        },
+        {
+            "id": "line_309",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 1075,
+                "y": 1586,
+                "width": 7,
+                "height": 376
+            },
+            "points": {
+                "start": [
+                    1075,
+                    1586
+                ],
+                "end": [
+                    1082,
+                    1962
+                ]
+            }
+        },
+        {
+            "id": "line_319",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2035,
+                "y": 1609,
+                "width": 1,
+                "height": 50
+            },
+            "points": {
+                "start": [
+                    2035,
+                    1609
+                ],
+                "end": [
+                    2036,
+                    1659
+                ]
+            }
+        },
+        {
+            "id": "line_321",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2691,
+                "y": 1617,
+                "width": 49,
+                "height": 11
+            },
+            "points": {
+                "start": [
+                    2691,
+                    1617
+                ],
+                "end": [
+                    2740,
+                    1628
+                ]
+            }
+        },
+        {
+            "id": "line_323",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 869,
+                "y": 1622,
+                "width": 202,
+                "height": 4
+            },
+            "points": {
+                "start": [
+                    869,
+                    1622
+                ],
+                "end": [
+                    1071,
+                    1626
+                ]
+            }
+        },
+        {
+            "id": "line_324",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 966,
+                "y": 1630,
+                "width": 9,
+                "height": 63
+            },
+            "points": {
+                "start": [
+                    966,
+                    1630
+                ],
+                "end": [
+                    975,
+                    1693
+                ]
+            }
+        },
+        {
+            "id": "line_325",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3911,
+                "y": 1656,
+                "width": 1,
+                "height": 203
+            },
+            "points": {
+                "start": [
+                    3911,
+                    1656
+                ],
+                "end": [
+                    3912,
+                    1859
+                ]
+            }
+        },
+        {
+            "id": "line_327",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 1922,
+                "y": 1661,
+                "width": 660,
+                "height": 11
+            },
+            "points": {
+                "start": [
+                    1922,
+                    1661
+                ],
+                "end": [
+                    2582,
+                    1672
+                ]
+            }
+        },
+        {
+            "id": "line_333",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 869,
+                "y": 1687,
+                "width": 95,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    869,
+                    1687
+                ],
+                "end": [
+                    964,
+                    1688
+                ]
+            }
+        },
+        {
+            "id": "line_334",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 4509,
+                "y": 1688,
+                "width": 3,
+                "height": 10
+            },
+            "points": {
+                "start": [
+                    4509,
+                    1688
+                ],
+                "end": [
+                    4512,
+                    1698
+                ]
+            }
+        },
+        {
+            "id": "line_335",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 128,
+                "y": 1689,
+                "width": 2,
+                "height": 9
+            },
+            "points": {
+                "start": [
+                    128,
+                    1689
+                ],
+                "end": [
+                    130,
+                    1698
+                ]
+            }
+        },
+        {
+            "id": "line_336",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 134,
+                "y": 1693,
+                "width": 39,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    134,
+                    1693
+                ],
+                "end": [
+                    173,
+                    1694
+                ]
+            }
+        },
+        {
+            "id": "line_337",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 4466,
+                "y": 1693,
+                "width": 39,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    4466,
+                    1693
+                ],
+                "end": [
+                    4505,
+                    1694
+                ]
+            }
+        },
+        {
+            "id": "line_345",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 4424,
+                "y": 1700,
+                "width": 92,
+                "height": 1517
+            },
+            "points": {
+                "start": [
+                    4424,
+                    1700
+                ],
+                "end": [
+                    4516,
+                    3217
+                ]
+            }
+        },
+        {
+            "id": "line_346",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 128,
+                "y": 1701,
+                "width": 0,
+                "height": 1501
+            },
+            "points": {
+                "start": [
+                    128,
+                    1701
+                ],
+                "end": [
+                    128,
+                    3202
+                ]
+            }
+        },
+        {
+            "id": "line_349",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2448,
+                "y": 1706,
+                "width": 21,
+                "height": 84
+            },
+            "points": {
+                "start": [
+                    2448,
+                    1706
+                ],
+                "end": [
+                    2469,
+                    1790
+                ]
+            }
+        },
+        {
+            "id": "line_350",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 1086,
+                "y": 1709,
+                "width": 201,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    1086,
+                    1709
+                ],
+                "end": [
+                    1287,
+                    1710
+                ]
+            }
+        },
+        {
+            "id": "line_352",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 1343,
+                "y": 1710,
+                "width": 42,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    1343,
+                    1710
+                ],
+                "end": [
+                    1385,
+                    1711
+                ]
+            }
+        },
+        {
+            "id": "line_353",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 1488,
+                "y": 1710,
+                "width": 8,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    1488,
+                    1710
+                ],
+                "end": [
+                    1496,
+                    1711
+                ]
+            }
+        },
+        {
+            "id": "line_370",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 490,
+                "y": 1770,
+                "width": 323,
+                "height": 25
+            },
+            "points": {
+                "start": [
+                    490,
+                    1770
+                ],
+                "end": [
+                    813,
+                    1795
+                ]
+            }
+        },
+        {
+            "id": "line_376",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3478,
+                "y": 1809,
+                "width": 1,
+                "height": 50
+            },
+            "points": {
+                "start": [
+                    3478,
+                    1809
+                ],
+                "end": [
+                    3479,
+                    1859
+                ]
+            }
+        },
+        {
+            "id": "line_389",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2511,
+                "y": 1858,
+                "width": 41,
+                "height": 12
+            },
+            "points": {
+                "start": [
+                    2511,
+                    1858
+                ],
+                "end": [
+                    2552,
+                    1870
+                ]
+            }
+        },
+        {
+            "id": "line_391",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 639,
+                "y": 1859,
+                "width": 26,
+                "height": 8
+            },
+            "points": {
+                "start": [
+                    639,
+                    1859
+                ],
+                "end": [
+                    665,
+                    1867
+                ]
+            }
+        },
+        {
+            "id": "line_392",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3365,
+                "y": 1861,
+                "width": 660,
+                "height": 11
+            },
+            "points": {
+                "start": [
+                    3365,
+                    1861
+                ],
+                "end": [
+                    4025,
+                    1872
+                ]
+            }
+        },
+        {
+            "id": "line_394",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2457,
+                "y": 1864,
+                "width": 52,
+                "height": 10
+            },
+            "points": {
+                "start": [
+                    2457,
+                    1864
+                ],
+                "end": [
+                    2509,
+                    1874
+                ]
+            }
+        },
+        {
+            "id": "line_395",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 623,
+                "y": 1866,
+                "width": 14,
+                "height": 3
+            },
+            "points": {
+                "start": [
+                    623,
+                    1866
+                ],
+                "end": [
+                    637,
+                    1869
+                ]
+            }
+        },
+        {
+            "id": "line_404",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3911,
+                "y": 1906,
+                "width": 4,
+                "height": 212
+            },
+            "points": {
+                "start": [
+                    3911,
+                    1906
+                ],
+                "end": [
+                    3915,
+                    2118
+                ]
+            }
+        },
+        {
+            "id": "line_405",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 645,
+                "y": 1912,
+                "width": 1,
+                "height": 50
+            },
+            "points": {
+                "start": [
+                    645,
+                    1912
+                ],
+                "end": [
+                    646,
+                    1962
+                ]
+            }
+        },
+        {
+            "id": "line_408",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 532,
+                "y": 1964,
+                "width": 660,
+                "height": 11
+            },
+            "points": {
+                "start": [
+                    532,
+                    1964
+                ],
+                "end": [
+                    1192,
+                    1975
+                ]
+            }
+        },
+        {
+            "id": "line_410",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2468,
+                "y": 1965,
+                "width": 1,
+                "height": 202
+            },
+            "points": {
+                "start": [
+                    2468,
+                    1965
+                ],
+                "end": [
+                    2469,
+                    2167
+                ]
+            }
+        },
+        {
+            "id": "line_425",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 1961,
+                "y": 2003,
+                "width": 1,
+                "height": 4
+            },
+            "points": {
+                "start": [
+                    1961,
+                    2003
+                ],
+                "end": [
+                    1962,
+                    2007
+                ]
+            }
+        },
+        {
+            "id": "line_428",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 1078,
+                "y": 2009,
+                "width": 1,
+                "height": 82
+            },
+            "points": {
+                "start": [
+                    1078,
+                    2009
+                ],
+                "end": [
+                    1079,
+                    2091
+                ]
+            }
+        },
+        {
+            "id": "line_430",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3450,
+                "y": 2010,
+                "width": 42,
+                "height": 12
+            },
+            "points": {
+                "start": [
+                    3450,
+                    2010
+                ],
+                "end": [
+                    3492,
+                    2022
+                ]
+            }
+        },
+        {
+            "id": "line_432",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3919,
+                "y": 2012,
+                "width": 201,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    3919,
+                    2012
+                ],
+                "end": [
+                    4120,
+                    2013
+                ]
+            }
+        },
+        {
+            "id": "line_434",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 1968,
+                "y": 2020,
+                "width": 61,
+                "height": 11
+            },
+            "points": {
+                "start": [
+                    1968,
+                    2020
+                ],
+                "end": [
+                    2029,
+                    2031
+                ]
+            }
+        },
+        {
+            "id": "line_435",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2072,
+                "y": 2020,
+                "width": 11,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    2072,
+                    2020
+                ],
+                "end": [
+                    2083,
+                    2021
+                ]
+            }
+        },
+        {
+            "id": "line_448",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 4134,
+                "y": 2051,
+                "width": 48,
+                "height": 9
+            },
+            "points": {
+                "start": [
+                    4134,
+                    2051
+                ],
+                "end": [
+                    4182,
+                    2060
+                ]
+            }
+        },
+        {
+            "id": "line_450",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3478,
+                "y": 2069,
+                "width": 1,
+                "height": 49
+            },
+            "points": {
+                "start": [
+                    3478,
+                    2069
+                ],
+                "end": [
+                    3479,
+                    2118
+                ]
+            }
+        },
+        {
+            "id": "line_454",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 941,
+                "y": 2095,
+                "width": 267,
+                "height": 13
+            },
+            "points": {
+                "start": [
+                    941,
+                    2095
+                ],
+                "end": [
+                    1208,
+                    2108
+                ]
+            }
+        },
+        {
+            "id": "line_457",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2035,
+                "y": 2117,
+                "width": 1,
+                "height": 50
+            },
+            "points": {
+                "start": [
+                    2035,
+                    2117
+                ],
+                "end": [
+                    2036,
+                    2167
+                ]
+            }
+        },
+        {
+            "id": "line_458",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3365,
+                "y": 2120,
+                "width": 660,
+                "height": 11
+            },
+            "points": {
+                "start": [
+                    3365,
+                    2120
+                ],
+                "end": [
+                    4025,
+                    2131
+                ]
+            }
+        },
+        {
+            "id": "line_464",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 916,
+                "y": 2131,
+                "width": 6,
+                "height": 38
+            },
+            "points": {
+                "start": [
+                    916,
+                    2131
+                ],
+                "end": [
+                    922,
+                    2169
+                ]
+            }
+        },
+        {
+            "id": "line_469",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 1234,
+                "y": 2141,
+                "width": 6,
+                "height": 24
+            },
+            "points": {
+                "start": [
+                    1234,
+                    2141
+                ],
+                "end": [
+                    1240,
+                    2165
+                ]
+            }
+        },
+        {
+            "id": "line_472",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 1091,
+                "y": 2154,
+                "width": 1,
+                "height": 12
+            },
+            "points": {
+                "start": [
+                    1091,
+                    2154
+                ],
+                "end": [
+                    1092,
+                    2166
+                ]
+            }
+        },
+        {
+            "id": "line_479",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3908,
+                "y": 2166,
+                "width": 4,
+                "height": 82
+            },
+            "points": {
+                "start": [
+                    3908,
+                    2166
+                ],
+                "end": [
+                    3912,
+                    2248
+                ]
+            }
+        },
+        {
+            "id": "line_484",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 1922,
+                "y": 2169,
+                "width": 660,
+                "height": 11
+            },
+            "points": {
+                "start": [
+                    1922,
+                    2169
+                ],
+                "end": [
+                    2582,
+                    2180
+                ]
+            }
+        },
+        {
+            "id": "line_486",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 948,
+                "y": 2178,
+                "width": 286,
+                "height": 30
+            },
+            "points": {
+                "start": [
+                    948,
+                    2178
+                ],
+                "end": [
+                    1234,
+                    2208
+                ]
+            }
+        },
+        {
+            "id": "line_491",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3702,
+                "y": 2202,
+                "width": 202,
+                "height": 0
+            },
+            "points": {
+                "start": [
+                    3702,
+                    2202
+                ],
+                "end": [
+                    3904,
+                    2202
+                ]
+            }
+        },
+        {
+            "id": "line_493",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2468,
+                "y": 2214,
+                "width": 4,
+                "height": 213
+            },
+            "points": {
+                "start": [
+                    2468,
+                    2214
+                ],
+                "end": [
+                    2472,
+                    2427
+                ]
+            }
+        },
+        {
+            "id": "line_495",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3781,
+                "y": 2252,
+                "width": 260,
+                "height": 9
+            },
+            "points": {
+                "start": [
+                    3781,
+                    2252
+                ],
+                "end": [
+                    4041,
+                    2261
+                ]
+            }
+        },
+        {
+            "id": "line_505",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2023,
+                "y": 2279,
+                "width": 57,
+                "height": 4
+            },
+            "points": {
+                "start": [
+                    2023,
+                    2279
+                ],
+                "end": [
+                    2080,
+                    2283
+                ]
+            }
+        },
+        {
+            "id": "line_516",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2747,
+                "y": 2299,
+                "width": 52,
+                "height": 12
+            },
+            "points": {
+                "start": [
+                    2747,
+                    2299
+                ],
+                "end": [
+                    2799,
+                    2311
+                ]
+            }
+        },
+        {
+            "id": "line_523",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2476,
+                "y": 2304,
+                "width": 202,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    2476,
+                    2304
+                ],
+                "end": [
+                    2678,
+                    2305
+                ]
+            }
+        },
+        {
+            "id": "line_525",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2734,
+                "y": 2305,
+                "width": 11,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    2734,
+                    2305
+                ],
+                "end": [
+                    2745,
+                    2306
+                ]
+            }
+        },
+        {
+            "id": "line_526",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2881,
+                "y": 2305,
+                "width": 5,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    2881,
+                    2305
+                ],
+                "end": [
+                    2886,
+                    2306
+                ]
+            }
+        },
+        {
+            "id": "line_542",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2691,
+                "y": 2342,
+                "width": 49,
+                "height": 11
+            },
+            "points": {
+                "start": [
+                    2691,
+                    2342
+                ],
+                "end": [
+                    2740,
+                    2353
+                ]
+            }
+        },
+        {
+            "id": "line_543",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 1939,
+                "y": 2346,
+                "width": 79,
+                "height": 24
+            },
+            "points": {
+                "start": [
+                    1939,
+                    2346
+                ],
+                "end": [
+                    2018,
+                    2370
+                ]
+            }
+        },
+        {
+            "id": "line_545",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3781,
+                "y": 2359,
+                "width": 261,
+                "height": 6
+            },
+            "points": {
+                "start": [
+                    3781,
+                    2359
+                ],
+                "end": [
+                    4042,
+                    2365
+                ]
+            }
+        },
+        {
+            "id": "line_546",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2020,
+                "y": 2360,
+                "width": 43,
+                "height": 13
+            },
+            "points": {
+                "start": [
+                    2020,
+                    2360
+                ],
+                "end": [
+                    2063,
+                    2373
+                ]
+            }
+        },
+        {
+            "id": "line_547",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2035,
+                "y": 2377,
+                "width": 1,
+                "height": 50
+            },
+            "points": {
+                "start": [
+                    2035,
+                    2377
+                ],
+                "end": [
+                    2036,
+                    2427
+                ]
+            }
+        },
+        {
+            "id": "line_548",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 1922,
+                "y": 2429,
+                "width": 660,
+                "height": 11
+            },
+            "points": {
+                "start": [
+                    1922,
+                    2429
+                ],
+                "end": [
+                    2582,
+                    2440
+                ]
+            }
+        },
+        {
+            "id": "line_552",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2468,
+                "y": 2474,
+                "width": 1,
+                "height": 83
+            },
+            "points": {
+                "start": [
+                    2468,
+                    2474
+                ],
+                "end": [
+                    2469,
+                    2557
+                ]
+            }
+        },
+        {
+            "id": "line_553",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2338,
+                "y": 2561,
+                "width": 251,
+                "height": 9
+            },
+            "points": {
+                "start": [
+                    2338,
+                    2561
+                ],
+                "end": [
+                    2589,
+                    2570
+                ]
+            }
+        },
+        {
+            "id": "line_562",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2503,
+                "y": 2601,
+                "width": 22,
+                "height": 3
+            },
+            "points": {
+                "start": [
+                    2503,
+                    2601
+                ],
+                "end": [
+                    2525,
+                    2604
+                ]
+            }
+        },
+        {
+            "id": "line_566",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2307,
+                "y": 2606,
+                "width": 1,
+                "height": 26
+            },
+            "points": {
+                "start": [
+                    2307,
+                    2606
+                ],
+                "end": [
+                    2308,
+                    2632
+                ]
+            }
+        },
+        {
+            "id": "line_579",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2339,
+                "y": 2664,
+                "width": 267,
+                "height": 9
+            },
+            "points": {
+                "start": [
+                    2339,
+                    2664
+                ],
+                "end": [
+                    2606,
+                    2673
+                ]
+            }
+        },
+        {
+            "id": "line_584",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 4526,
+                "y": 2871,
+                "width": 9,
+                "height": 44
+            },
+            "points": {
+                "start": [
+                    4526,
+                    2871
+                ],
+                "end": [
+                    4535,
+                    2915
+                ]
+            }
+        },
+        {
+            "id": "line_587",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2832,
+                "y": 2916,
+                "width": 1617,
+                "height": 8
+            },
+            "points": {
+                "start": [
+                    2832,
+                    2916
+                ],
+                "end": [
+                    4449,
+                    2924
+                ]
+            }
+        },
+        {
+            "id": "line_588",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2688,
+                "y": 2922,
+                "width": 10,
+                "height": 36
+            },
+            "points": {
+                "start": [
+                    2688,
+                    2922
+                ],
+                "end": [
+                    2698,
+                    2958
+                ]
+            }
+        },
+        {
+            "id": "line_589",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2759,
+                "y": 2922,
+                "width": 1,
+                "height": 23
+            },
+            "points": {
+                "start": [
+                    2759,
+                    2922
+                ],
+                "end": [
+                    2760,
+                    2945
+                ]
+            }
+        },
+        {
+            "id": "line_590",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3656,
+                "y": 2922,
+                "width": 0,
+                "height": 107
+            },
+            "points": {
+                "start": [
+                    3656,
+                    2922
+                ],
+                "end": [
+                    3656,
+                    3029
+                ]
+            }
+        },
+        {
+            "id": "line_591",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3829,
+                "y": 2922,
+                "width": 1,
+                "height": 107
+            },
+            "points": {
+                "start": [
+                    3829,
+                    2922
+                ],
+                "end": [
+                    3830,
+                    3029
+                ]
+            }
+        },
+        {
+            "id": "line_603",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2731,
+                "y": 2945,
+                "width": 49,
+                "height": 12
+            },
+            "points": {
+                "start": [
+                    2731,
+                    2945
+                ],
+                "end": [
+                    2780,
+                    2957
+                ]
+            }
+        },
+        {
+            "id": "line_605",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 4046,
+                "y": 2949,
+                "width": 6,
+                "height": 26
+            },
+            "points": {
+                "start": [
+                    4046,
+                    2949
+                ],
+                "end": [
+                    4052,
+                    2975
+                ]
+            }
+        },
+        {
+            "id": "line_610",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 505,
+                "y": 2959,
+                "width": 10,
+                "height": 39
+            },
+            "points": {
+                "start": [
+                    505,
+                    2959
+                ],
+                "end": [
+                    515,
+                    2998
+                ]
+            }
+        },
+        {
+            "id": "line_618",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3721,
+                "y": 2962,
+                "width": 8,
+                "height": 2
+            },
+            "points": {
+                "start": [
+                    3721,
+                    2962
+                ],
+                "end": [
+                    3729,
+                    2964
+                ]
+            }
+        },
+        {
+            "id": "line_620",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3240,
+                "y": 2965,
+                "width": 9,
+                "height": 2
+            },
+            "points": {
+                "start": [
+                    3240,
+                    2965
+                ],
+                "end": [
+                    3249,
+                    2967
+                ]
+            }
+        },
+        {
+            "id": "line_628",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3704,
+                "y": 2969,
+                "width": 8,
+                "height": 27
+            },
+            "points": {
+                "start": [
+                    3704,
+                    2969
+                ],
+                "end": [
+                    3712,
+                    2996
+                ]
+            }
+        },
+        {
+            "id": "line_629",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3721,
+                "y": 2969,
+                "width": 9,
+                "height": 28
+            },
+            "points": {
+                "start": [
+                    3721,
+                    2969
+                ],
+                "end": [
+                    3730,
+                    2997
+                ]
+            }
+        },
+        {
+            "id": "line_632",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 605,
+                "y": 2974,
+                "width": 48,
+                "height": 15
+            },
+            "points": {
+                "start": [
+                    605,
+                    2974
+                ],
+                "end": [
+                    653,
+                    2989
+                ]
+            }
+        },
+        {
+            "id": "line_633",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 872,
+                "y": 2974,
+                "width": 59,
+                "height": 10
+            },
+            "points": {
+                "start": [
+                    872,
+                    2974
+                ],
+                "end": [
+                    931,
+                    2984
+                ]
+            }
+        },
+        {
+            "id": "line_634",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 1034,
+                "y": 2974,
+                "width": 227,
+                "height": 11
+            },
+            "points": {
+                "start": [
+                    1034,
+                    2974
+                ],
+                "end": [
+                    1261,
+                    2985
+                ]
+            }
+        },
+        {
+            "id": "line_639",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 724,
+                "y": 2978,
+                "width": 7,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    724,
+                    2978
+                ],
+                "end": [
+                    731,
+                    2979
+                ]
+            }
+        },
+        {
+            "id": "line_644",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 4240,
+                "y": 2983,
+                "width": 6,
+                "height": 0
+            },
+            "points": {
+                "start": [
+                    4240,
+                    2983
+                ],
+                "end": [
+                    4246,
+                    2983
+                ]
+            }
+        },
+        {
+            "id": "line_650",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3183,
+                "y": 2991,
+                "width": 26,
+                "height": 8
+            },
+            "points": {
+                "start": [
+                    3183,
+                    2991
+                ],
+                "end": [
+                    3209,
+                    2999
+                ]
+            }
+        },
+        {
+            "id": "line_657",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2310,
+                "y": 3031,
+                "width": 323,
+                "height": 42
+            },
+            "points": {
+                "start": [
+                    2310,
+                    3031
+                ],
+                "end": [
+                    2633,
+                    3073
+                ]
+            }
+        },
+        {
+            "id": "line_658",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2645,
+                "y": 3035,
+                "width": 1005,
+                "height": 0
+            },
+            "points": {
+                "start": [
+                    2645,
+                    3035
+                ],
+                "end": [
+                    3650,
+                    3035
+                ]
+            }
+        },
+        {
+            "id": "line_659",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3662,
+                "y": 3035,
+                "width": 161,
+                "height": 0
+            },
+            "points": {
+                "start": [
+                    3662,
+                    3035
+                ],
+                "end": [
+                    3823,
+                    3035
+                ]
+            }
+        },
+        {
+            "id": "line_660",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3836,
+                "y": 3035,
+                "width": 613,
+                "height": 0
+            },
+            "points": {
+                "start": [
+                    3836,
+                    3035
+                ],
+                "end": [
+                    4449,
+                    3035
+                ]
+            }
+        },
+        {
+            "id": "line_661",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2639,
+                "y": 3041,
+                "width": 0,
+                "height": 48
+            },
+            "points": {
+                "start": [
+                    2639,
+                    3041
+                ],
+                "end": [
+                    2639,
+                    3089
+                ]
+            }
+        },
+        {
+            "id": "line_662",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3656,
+                "y": 3041,
+                "width": 0,
+                "height": 105
+            },
+            "points": {
+                "start": [
+                    3656,
+                    3041
+                ],
+                "end": [
+                    3656,
+                    3146
+                ]
+            }
+        },
+        {
+            "id": "line_663",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3829,
+                "y": 3041,
+                "width": 1,
+                "height": 105
+            },
+            "points": {
+                "start": [
+                    3829,
+                    3041
+                ],
+                "end": [
+                    3830,
+                    3146
+                ]
+            }
+        },
+        {
+            "id": "line_664",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2360,
+                "y": 3042,
+                "width": 8,
+                "height": 30
+            },
+            "points": {
+                "start": [
+                    2360,
+                    3042
+                ],
+                "end": [
+                    2368,
+                    3072
+                ]
+            }
+        },
+        {
+            "id": "line_665",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2422,
+                "y": 3042,
+                "width": 1,
+                "height": 47
+            },
+            "points": {
+                "start": [
+                    2422,
+                    3042
+                ],
+                "end": [
+                    2423,
+                    3089
+                ]
+            }
+        },
+        {
+            "id": "line_666",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2476,
+                "y": 3042,
+                "width": 1,
+                "height": 47
+            },
+            "points": {
+                "start": [
+                    2476,
+                    3042
+                ],
+                "end": [
+                    2477,
+                    3089
+                ]
+            }
+        },
+        {
+            "id": "line_667",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2531,
+                "y": 3042,
+                "width": 0,
+                "height": 47
+            },
+            "points": {
+                "start": [
+                    2531,
+                    3042
+                ],
+                "end": [
+                    2531,
+                    3089
+                ]
+            }
+        },
+        {
+            "id": "line_668",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2585,
+                "y": 3042,
+                "width": 0,
+                "height": 47
+            },
+            "points": {
+                "start": [
+                    2585,
+                    3042
+                ],
+                "end": [
+                    2585,
+                    3089
+                ]
+            }
+        },
+        {
+            "id": "line_669",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 4527,
+                "y": 3043,
+                "width": 11,
+                "height": 59
+            },
+            "points": {
+                "start": [
+                    4527,
+                    3043
+                ],
+                "end": [
+                    4538,
+                    3102
+                ]
+            }
+        },
+        {
+            "id": "line_672",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2393,
+                "y": 3052,
+                "width": 8,
+                "height": 27
+            },
+            "points": {
+                "start": [
+                    2393,
+                    3052
+                ],
+                "end": [
+                    2401,
+                    3079
+                ]
+            }
+        },
+        {
+            "id": "line_677",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 3086,
+                "y": 3056,
+                "width": 24,
+                "height": 79
+            },
+            "points": {
+                "start": [
+                    3086,
+                    3056
+                ],
+                "end": [
+                    3110,
+                    3135
+                ]
+            }
+        },
+        {
+            "id": "line_684",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 4106,
+                "y": 3074,
+                "width": 10,
+                "height": 44
+            },
+            "points": {
+                "start": [
+                    4106,
+                    3074
+                ],
+                "end": [
+                    4116,
+                    3118
+                ]
+            }
+        },
+        {
+            "id": "line_689",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 4067,
+                "y": 3081,
+                "width": 23,
+                "height": 7
+            },
+            "points": {
+                "start": [
+                    4067,
+                    3081
+                ],
+                "end": [
+                    4090,
+                    3088
+                ]
+            }
+        },
+        {
+            "id": "line_691",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 4096,
+                "y": 3084,
+                "width": 7,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    4096,
+                    3084
+                ],
+                "end": [
+                    4103,
+                    3085
+                ]
+            }
+        },
+        {
+            "id": "line_694",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 4342,
+                "y": 3089,
+                "width": 9,
+                "height": 33
+            },
+            "points": {
+                "start": [
+                    4342,
+                    3089
+                ],
+                "end": [
+                    4351,
+                    3122
+                ]
+            }
+        },
+        {
+            "id": "line_695",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2637,
+                "y": 3091,
+                "width": 2,
+                "height": 8
+            },
+            "points": {
+                "start": [
+                    2637,
+                    3091
+                ],
+                "end": [
+                    2639,
+                    3099
+                ]
+            }
+        },
+        {
+            "id": "line_697",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 4039,
+                "y": 3093,
+                "width": 1,
+                "height": 4
+            },
+            "points": {
+                "start": [
+                    4039,
+                    3093
+                ],
+                "end": [
+                    4040,
+                    3097
+                ]
+            }
+        },
+        {
+            "id": "line_699",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2374,
+                "y": 3095,
+                "width": 42,
+                "height": 0
+            },
+            "points": {
+                "start": [
+                    2374,
+                    3095
+                ],
+                "end": [
+                    2416,
+                    3095
+                ]
+            }
+        },
+        {
+            "id": "line_700",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2429,
+                "y": 3095,
+                "width": 41,
+                "height": 0
+            },
+            "points": {
+                "start": [
+                    2429,
+                    3095
+                ],
+                "end": [
+                    2470,
+                    3095
+                ]
+            }
+        },
+        {
+            "id": "line_701",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2483,
+                "y": 3095,
+                "width": 42,
+                "height": 0
+            },
+            "points": {
+                "start": [
+                    2483,
+                    3095
+                ],
+                "end": [
+                    2525,
+                    3095
+                ]
+            }
+        },
+        {
+            "id": "line_702",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2537,
+                "y": 3095,
+                "width": 42,
+                "height": 0
+            },
+            "points": {
+                "start": [
+                    2537,
+                    3095
+                ],
+                "end": [
+                    2579,
+                    3095
+                ]
+            }
+        },
+        {
+            "id": "line_703",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2591,
+                "y": 3095,
+                "width": 42,
+                "height": 0
+            },
+            "points": {
+                "start": [
+                    2591,
+                    3095
+                ],
+                "end": [
+                    2633,
+                    3095
+                ]
+            }
+        },
+        {
+            "id": "line_704",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 3112,
+                "y": 3095,
+                "width": 15,
+                "height": 1
+            },
+            "points": {
+                "start": [
+                    3112,
+                    3095
+                ],
+                "end": [
+                    3127,
+                    3096
+                ]
+            }
+        },
+        {
+            "id": "line_706",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2368,
+                "y": 3101,
+                "width": 0,
+                "height": 45
+            },
+            "points": {
+                "start": [
+                    2368,
+                    3101
+                ],
+                "end": [
+                    2368,
+                    3146
+                ]
+            }
+        },
+        {
+            "id": "line_707",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2422,
+                "y": 3101,
+                "width": 1,
+                "height": 45
+            },
+            "points": {
+                "start": [
+                    2422,
+                    3101
+                ],
+                "end": [
+                    2423,
+                    3146
+                ]
+            }
+        },
+        {
+            "id": "line_708",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2476,
+                "y": 3101,
+                "width": 1,
+                "height": 45
+            },
+            "points": {
+                "start": [
+                    2476,
+                    3101
+                ],
+                "end": [
+                    2477,
+                    3146
+                ]
+            }
+        },
+        {
+            "id": "line_709",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2531,
+                "y": 3101,
+                "width": 0,
+                "height": 45
+            },
+            "points": {
+                "start": [
+                    2531,
+                    3101
+                ],
+                "end": [
+                    2531,
+                    3146
+                ]
+            }
+        },
+        {
+            "id": "line_710",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2585,
+                "y": 3101,
+                "width": 0,
+                "height": 45
+            },
+            "points": {
+                "start": [
+                    2585,
+                    3101
+                ],
+                "end": [
+                    2585,
+                    3146
+                ]
+            }
+        },
+        {
+            "id": "line_711",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2639,
+                "y": 3101,
+                "width": 0,
+                "height": 45
+            },
+            "points": {
+                "start": [
+                    2639,
+                    3101
+                ],
+                "end": [
+                    2639,
+                    3146
+                ]
+            }
+        },
+        {
+            "id": "line_713",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 4266,
+                "y": 3103,
+                "width": 29,
+                "height": 3
+            },
+            "points": {
+                "start": [
+                    4266,
+                    3103
+                ],
+                "end": [
+                    4295,
+                    3106
+                ]
+            }
+        },
+        {
+            "id": "line_714",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 4354,
+                "y": 3103,
+                "width": 22,
+                "height": 2
+            },
+            "points": {
+                "start": [
+                    4354,
+                    3103
+                ],
+                "end": [
+                    4376,
+                    3105
+                ]
+            }
+        },
+        {
+            "id": "line_730",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2314,
+                "y": 3144,
+                "width": 685,
+                "height": 14
+            },
+            "points": {
+                "start": [
+                    2314,
+                    3144
+                ],
+                "end": [
+                    2999,
+                    3158
+                ]
+            }
+        },
+        {
+            "id": "line_732",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 1219,
+                "y": 3163,
+                "width": 9,
+                "height": 35
+            },
+            "points": {
+                "start": [
+                    1219,
+                    3163
+                ],
+                "end": [
+                    1228,
+                    3198
+                ]
+            }
+        },
+        {
+            "id": "line_733",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 2319,
+                "y": 3163,
+                "width": 1,
+                "height": 39
+            },
+            "points": {
+                "start": [
+                    2319,
+                    3163
+                ],
+                "end": [
+                    2320,
+                    3202
+                ]
+            }
+        },
+        {
+            "id": "line_735",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 124,
+                "y": 3204,
+                "width": 2188,
+                "height": 8
+            },
+            "points": {
+                "start": [
+                    124,
+                    3204
+                ],
+                "end": [
+                    2312,
+                    3212
+                ]
+            }
+        },
+        {
+            "id": "line_736",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2314,
+                "y": 3206,
+                "width": 11,
+                "height": 3
+            },
+            "points": {
+                "start": [
+                    2314,
+                    3206
+                ],
+                "end": [
+                    2325,
+                    3209
+                ]
+            }
+        },
+        {
+            "id": "line_737",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 2327,
+                "y": 3208,
+                "width": 1917,
+                "height": 36
+            },
+            "points": {
+                "start": [
+                    2327,
+                    3208
+                ],
+                "end": [
+                    4244,
+                    3244
+                ]
+            }
+        },
+        {
+            "id": "line_738",
+            "orientation": "horizontal",
+            "bbox": {
+                "x": 4245,
+                "y": 3208,
+                "width": 251,
+                "height": 39
+            },
+            "points": {
+                "start": [
+                    4245,
+                    3208
+                ],
+                "end": [
+                    4496,
+                    3247
+                ]
+            }
+        },
+        {
+            "id": "line_739",
+            "orientation": "vertical",
+            "bbox": {
+                "x": 4108,
+                "y": 3215,
+                "width": 1,
+                "height": 7
+            },
+            "points": {
+                "start": [
+                    4108,
+                    3215
+                ],
+                "end": [
+                    4109,
+                    3222
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>EM-02_MAIN SWITCHBOARD</folder>
+	<filename>page_10.png</filename>
+	<path>C:\Users\DakBle\Desktop\Project\yoloCX\shared\image_store\EM-02_MAIN SWITCHBOARD\page_10.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4678</width>
+		<height>3307</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Circle_common</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3026</xmin>
+			<ymin>1040</ymin>
+			<xmax>3094</xmax>
+			<ymax>1106</ymax>
+		</bndbox>
+	</object>
+</annotation>
